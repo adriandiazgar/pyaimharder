@@ -1,2 +1,0 @@
-# pyaimharder
-AimHarder python client
